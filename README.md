@@ -24,23 +24,3 @@ $ rb-tools run start: start dev server
   },
 });
 ```
-
-## History
-
-### 9.0.0
-
-- upgrade all deps
-- add `test` task
-
-### 8.0.0
-
-- upgrade eslint to the latest version
-- introduce prettier
-
-### 7.0.0
-
-- upgrade to webpack3
-
-### 6.0.0
-
-- move test to rc-test
